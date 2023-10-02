@@ -4,8 +4,7 @@ const form = document.querySelector('#form');
 const taskInput = document.querySelector('#taskInput');
 const tasksList = document.querySelector('#tasksList');
 const emptyList = document.querySelector('#emptyList');
-const yyy = document.body
-console.log(yyy);
+
 
 //Функция добавления новой задачи
 const addNewTask = (e) =>{
